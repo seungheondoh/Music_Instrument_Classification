@@ -40,10 +40,10 @@ Classification accuracy varied depending on the nature of the machine learning a
 
 hypotheses set | SVM | Softmax | GaussianNB | KNN | DT | RF
 :---:|:---:|:---:|:---:|:---:|:---:|:---:
-Timber | \textcolor{blue}{91.0} | 88.0 | 77.5 | 84.5 | 70.5 | 88.0
+Timber | 91.0 | 88.0 | 77.5 | 84.5 | 70.5 | 88.0
 Pitch/harmony | 63.5 | 36.5 | 42 | 55.0 | 44.5 | 55
-Rhythm | 15.5 | 14.5 | 14.0 | 8.5 | 6.5 | 6.5 \\  
-Timber + Pitch/harmony | \textcolor{blue}{90.5} | 88.0 | 30 | 71.0 | 63.5 | 89.0
-Timber + Rhythm | \textcolor{blue}{92.5} | 88.0 | 73.0 | 85.5 | 61.5 | 88.5
-Pitch/harmony + Rhythm | 64 | 40.5 | 30.0 | 56.0 | 20.0 | 45.5 \\
-Timber + Rhythm + Pitch/harmony | \textcolor{blue}{91.5} | 87.0 | 77.5 | 73.0 | 62.5 | 90.5
+Rhythm | 15.5 | 14.5 | 14.0 | 8.5 | 6.5 | 6.5
+Timber + Pitch/harmony | 90.5 | 88.0 | 30 | 71.0 | 63.5 | 89.0
+Timber + Rhythm | __92.5__ | 88.0 | 73.0 | 85.5 | 61.5 | 88.5
+Pitch/harmony + Rhythm | 64 | 40.5 | 30.0 | 56.0 | 20.0 | 45.5 
+Timber + Rhythm + Pitch/harmony | 91.5 | 87.0 | 77.5 | 73.0 | 62.5 | 90.5
