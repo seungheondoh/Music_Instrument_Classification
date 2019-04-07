@@ -31,7 +31,7 @@ $ python main.py
 After you build model and make a .pkl file you just change test set and   
 
 ```
-Model-Selection-MinMax.ipynn
+$ python test.py
 ```
 
 ### result
